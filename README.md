@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=GreygorySulle&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-I'm an AI architect and full-stack developer from Tanzania, dedicated to building innovative solutions that bridge technology and real-world impact. With expertise spanning artificial intelligence, microservices architecture, and cloud-native development, I thrive on creating systems that solve complex problems.
+I'm an AI architect and full-stack software developer from Tanzania, dedicated to building innovative solutions that bridge technology and real-world impact. With expertise spanning artificial intelligence, microservices architecture, and cloud-native development, I thrive on creating systems that solve complex problems.
 
 ## 🛠️ Technical Stack
 
