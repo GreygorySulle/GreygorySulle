@@ -60,8 +60,6 @@ I'm an AI architect and full-stack software developer from Tanzania, dedicated t
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GreygorySulle&theme=radical&no-frame=true&margin-w=8" />
 </p>
