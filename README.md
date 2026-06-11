@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Greygory Sulle! Welcome to My Digital Hub
 
-**AI Architect | Full-Stack Innovator | Technology Entrepreneur**
+**AI Architect | Software Engineer | Technology Entrepreneur**
 
 ## 🚀 Tech Innovation Leader
 
