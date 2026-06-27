@@ -5,7 +5,7 @@
 ## 🚀 Tech Innovation Leader
 
 <p align="left">
-  <!-- <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=firefox&logoColor=white" /></a> -->
+  <a href="https://greygorysulle.silicaport.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:sullegreygory@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/greygory-sulle-249b45245/"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/GreygorySulle"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white" /></a>
